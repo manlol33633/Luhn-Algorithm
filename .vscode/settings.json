@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.inlayHints.enabled": "off",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ],
+}
